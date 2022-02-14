@@ -1,5 +1,19 @@
 # ECM2429-workshop-3-exercises
 
+## A simple graphical user interface
+
+### Exercises
+
+1. Create a virutal environment and run the program ```mygui.py``` in ```mycode```
+
+2. Install the packages listed in ```requirements.txt```
+
+3. Use ```tox```  to test the program.
+
+4. Generate HTML and PDF docs using Sphinx
+
+5. Look at the test results - can you improve them?
+
 ## Resources
 
 ### Flake8
