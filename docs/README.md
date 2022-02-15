@@ -47,6 +47,10 @@ https://www.sphinx-doc.org/en/master/usage/restructuredtext/basics.html
 
 https://docs.anaconda.com/restructuredtext/detailed/
 
+For reference to the toctree
+
+https://www.sphinx-doc.org/en/1.4.8/markup/toctree.html
+
 Autodoc
 -------
 
